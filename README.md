@@ -1,6 +1,5 @@
-## Your Name
+## Bayu Saputra
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
 
@@ -11,15 +10,18 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**SMK ISLAM DARURROHMAN** (2021 - Sekarang)  
+_Staf Kurikulum_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Membantu Waka. Bid Kurikulum dalam :
+- menyusun Program pengajaran,
+- Menyusun jadwal evaluasi belajar dan pelaksanaan ujian 
+- Menyusun program pengajaran
+- Mengkoordinasikan, menyusun dan mengarahkan penyusunan kelengkapan mengajar
+- Mengatur pelaksaan program perbaikan dan pengayaan
+- Melakukan pengarsipan program kurikulum
+- Penyusunan laporan secara berkala
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
